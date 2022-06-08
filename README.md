@@ -1,2 +1,2 @@
 # ProjetoSite1
- Criação do primeiro site para apresentação
+ Testando algumas funcionalidades de HTML e CSS
